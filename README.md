@@ -1,1 +1,0 @@
-# 1st-i-School-Introduction-to-Python-and-Numerical-Methods-
